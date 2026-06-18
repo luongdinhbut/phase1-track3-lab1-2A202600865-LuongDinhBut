@@ -1,0 +1,326 @@
+[
+  {
+    "qid": "gold1",
+    "difficulty": "easy",
+    "question": "What is the capital of the country where the Great Wall was built?",
+    "gold_answer": "Beijing",
+    "context": [
+      {
+        "title": "Great Wall of China",
+        "text": "The Great Wall of China is a series of fortifications built across the historical northern borders of China."
+      },
+      {
+        "title": "China",
+        "text": "China, officially the People's Republic of China, has its capital in Beijing."
+      }
+    ]
+  },
+  {
+    "qid": "gold2",
+    "difficulty": "easy",
+    "question": "What genre of music is the composer of Swan Lake most known for?",
+    "gold_answer": "classical",
+    "context": [
+      {
+        "title": "Swan Lake",
+        "text": "Swan Lake is a ballet composed by Pyotr Ilyich Tchaikovsky in 1875-1876."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Tchaikovsky was a Russian composer of the Romantic period and is widely regarded as one of the greatest classical music composers."
+      }
+    ]
+  },
+  {
+    "qid": "gold3",
+    "difficulty": "medium",
+    "question": "What currency is used in the country where Machu Picchu is located?",
+    "gold_answer": "Peruvian sol",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is a 15th-century Inca citadel situated on a mountain ridge in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru uses the Peruvian sol as its official currency."
+      }
+    ]
+  },
+  {
+    "qid": "gold4",
+    "difficulty": "medium",
+    "question": "In which body of water does the longest river in Africa empty?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Nile",
+        "text": "The Nile is the longest river in Africa, stretching approximately 6,650 km."
+      },
+      {
+        "title": "Nile Delta",
+        "text": "The Nile empties into the Mediterranean Sea through a large delta in northern Egypt."
+      }
+    ]
+  },
+  {
+    "qid": "gold5",
+    "difficulty": "medium",
+    "question": "What programming language was used to originally write the operating system created by Linus Torvalds?",
+    "gold_answer": "C",
+    "context": [
+      {
+        "title": "Linus Torvalds",
+        "text": "Linus Torvalds is the creator of Linux, the kernel of the Linux operating system."
+      },
+      {
+        "title": "Linux kernel",
+        "text": "The Linux kernel is written primarily in the C programming language."
+      }
+    ]
+  },
+  {
+    "qid": "gold6",
+    "difficulty": "hard",
+    "question": "What is the official language of the country that borders France to the northeast and has Brussels as its capital?",
+    "gold_answer": "Dutch, French, and German",
+    "context": [
+      {
+        "title": "France",
+        "text": "France is bordered to the northeast by Belgium, Luxembourg, and Germany."
+      },
+      {
+        "title": "Belgium",
+        "text": "Belgium has Brussels as its capital and three official languages: Dutch, French, and German."
+      }
+    ]
+  },
+  {
+    "qid": "gold7",
+    "difficulty": "hard",
+    "question": "What award did the director of the 1994 film that is set in Shawshank State Penitentiary receive from the Academy?",
+    "gold_answer": "no Academy Award win",
+    "context": [
+      {
+        "title": "The Shawshank Redemption",
+        "text": "The Shawshank Redemption is a 1994 drama film directed by Frank Darabont, set in the fictional Shawshank State Penitentiary. It was nominated for seven Academy Awards but did not win any."
+      },
+      {
+        "title": "Frank Darabont",
+        "text": "Frank Darabont is a filmmaker known for The Shawshank Redemption and The Green Mile. Despite multiple nominations, he has not won an Academy Award."
+      }
+    ]
+  },
+  {
+    "qid": "gold8",
+    "difficulty": "easy",
+    "question": "What planet is the NASA rover Curiosity currently exploring?",
+    "gold_answer": "Mars",
+    "context": [
+      {
+        "title": "Curiosity rover",
+        "text": "Curiosity is a car-sized Mars rover designed to explore the Gale crater on Mars as part of NASA's Mars Science Laboratory mission."
+      },
+      {
+        "title": "Mars exploration",
+        "text": "Mars has been explored by several robotic spacecraft, including the Curiosity rover which landed in 2012."
+      }
+    ]
+  },
+  {
+    "qid": "gold9",
+    "difficulty": "medium",
+    "question": "What is the highest mountain in the country where the Colosseum is located?",
+    "gold_answer": "Mont Blanc",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is an ancient amphitheatre in the centre of Rome, Italy."
+      },
+      {
+        "title": "Geography of Italy",
+        "text": "The highest point in Italy is Mont Blanc (Monte Bianco) at 4,808 metres, located on the border with France."
+      }
+    ]
+  },
+  {
+    "qid": "gold10",
+    "difficulty": "hard",
+    "question": "Which element did the scientist who developed the theory of general relativity help theorize could be released from atoms for enormous energy?",
+    "gold_answer": "uranium",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein developed the theory of general relativity and is known for his mass-energy equivalence formula E=mc². His work contributed to the theoretical foundation of nuclear energy."
+      },
+      {
+        "title": "Nuclear fission",
+        "text": "Einstein's letter to President Roosevelt in 1939 warned about the potential of uranium fission to produce powerful weapons, leading to the Manhattan Project."
+      }
+    ]
+  },
+  {
+    "qid": "gold11",
+    "difficulty": "easy",
+    "question": "What ocean does the Amazon River flow into?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Amazon River",
+        "text": "The Amazon River is the largest river by discharge volume of water in the world, flowing through South America."
+      },
+      {
+        "title": "Amazon Basin",
+        "text": "The Amazon flows eastward across Brazil and empties into the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "gold12",
+    "difficulty": "medium",
+    "question": "What type of government does the country where the Taj Mahal is located have?",
+    "gold_answer": "federal parliamentary democratic republic",
+    "context": [
+      {
+        "title": "Taj Mahal",
+        "text": "The Taj Mahal is an ivory-white marble mausoleum on the southern bank of the river Yamuna in Agra, India."
+      },
+      {
+        "title": "India",
+        "text": "India is a federal parliamentary democratic republic in which the president is head of state and the prime minister is head of government."
+      }
+    ]
+  },
+  {
+    "qid": "gold13",
+    "difficulty": "hard",
+    "question": "What is the population of the city where the headquarters of the company that created the iPhone is located?",
+    "gold_answer": "approximately 66000",
+    "context": [
+      {
+        "title": "iPhone",
+        "text": "The iPhone is a line of smartphones designed and marketed by Apple Inc."
+      },
+      {
+        "title": "Apple Inc.",
+        "text": "Apple Inc. is headquartered at Apple Park in Cupertino, California."
+      },
+      {
+        "title": "Cupertino, California",
+        "text": "Cupertino is a city in Santa Clara County, California, with a population of approximately 66,000."
+      }
+    ]
+  },
+  {
+    "qid": "gold14",
+    "difficulty": "medium",
+    "question": "What strait separates the continent where Mount Kilimanjaro is located from the Arabian Peninsula?",
+    "gold_answer": "Bab-el-Mandeb",
+    "context": [
+      {
+        "title": "Mount Kilimanjaro",
+        "text": "Mount Kilimanjaro is a dormant volcano in Tanzania, Africa. It is the highest mountain in Africa."
+      },
+      {
+        "title": "Geography of Africa",
+        "text": "Africa is separated from the Arabian Peninsula by the Red Sea and the Bab-el-Mandeb strait."
+      }
+    ]
+  },
+  {
+    "qid": "gold15",
+    "difficulty": "hard",
+    "question": "Who was the first person to set foot on the celestial body that causes tides on Earth?",
+    "gold_answer": "Neil Armstrong",
+    "context": [
+      {
+        "title": "Tides",
+        "text": "Tides on Earth are primarily caused by the gravitational pull of the Moon."
+      },
+      {
+        "title": "Moon landing",
+        "text": "Neil Armstrong became the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission."
+      }
+    ]
+  },
+  {
+    "qid": "gold16",
+    "difficulty": "easy",
+    "question": "What sport is the club that plays at Camp Nou known for?",
+    "gold_answer": "football",
+    "context": [
+      {
+        "title": "Camp Nou",
+        "text": "Camp Nou is a football stadium in Barcelona, Spain. It is the home ground of FC Barcelona."
+      },
+      {
+        "title": "FC Barcelona",
+        "text": "FC Barcelona is a professional football club based in Barcelona, competing in La Liga."
+      }
+    ]
+  },
+  {
+    "qid": "gold17",
+    "difficulty": "medium",
+    "question": "What is the deepest point in the ocean that borders Japan to the east?",
+    "gold_answer": "Challenger Deep",
+    "context": [
+      {
+        "title": "Japan",
+        "text": "Japan is an island country in East Asia, bordered by the Pacific Ocean to the east."
+      },
+      {
+        "title": "Pacific Ocean",
+        "text": "The Pacific Ocean is the largest and deepest ocean on Earth. Its deepest point is the Challenger Deep in the Mariana Trench, reaching approximately 10,935 metres."
+      }
+    ]
+  },
+  {
+    "qid": "gold18",
+    "difficulty": "hard",
+    "question": "What nationality was the architect who designed the museum in Bilbao that is part of the Guggenheim network?",
+    "gold_answer": "Canadian-American",
+    "context": [
+      {
+        "title": "Guggenheim Museum Bilbao",
+        "text": "The Guggenheim Museum Bilbao is a museum of modern and contemporary art in Bilbao, Spain, designed by architect Frank Gehry."
+      },
+      {
+        "title": "Frank Gehry",
+        "text": "Frank Owen Gehry is a Canadian-American architect known for postmodern designs including the Guggenheim Museum Bilbao and Walt Disney Concert Hall."
+      }
+    ]
+  },
+  {
+    "qid": "gold19",
+    "difficulty": "easy",
+    "question": "What continent is the country where the pyramids of Giza are located on?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Pyramids of Giza",
+        "text": "The Giza pyramid complex is an archaeological site on the Giza Plateau near Cairo, Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is a transcontinental country, but the majority of its territory including Cairo is located in northeastern Africa."
+      }
+    ]
+  },
+  {
+    "qid": "gold20",
+    "difficulty": "hard",
+    "question": "In what year was the treaty signed that ended the war in which the atomic bomb was first used in combat?",
+    "gold_answer": "1951",
+    "context": [
+      {
+        "title": "Atomic bombings of Hiroshima and Nagasaki",
+        "text": "The United States detonated two atomic bombs over the Japanese cities of Hiroshima and Nagasaki in August 1945 during World War II. These remain the only use of nuclear weapons in armed conflict."
+      },
+      {
+        "title": "Treaty of San Francisco",
+        "text": "The Treaty of San Francisco, signed on September 8, 1951, officially ended World War II between Japan and the Allied Powers."
+      }
+    ]
+  }
+]
